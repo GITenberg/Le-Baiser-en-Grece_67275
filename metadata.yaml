@@ -1,0 +1,26 @@
+_repo: Le-Baiser-en-Grece_67275
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Villeneuve, Bagneux de
+    gutenberg_agent_id: '54189'
+    url: http://www.gutenberg.org/2009/agents/54189
+description: ''
+gutenberg_issued: '2022-01-29'
+identifiers:
+  gutenberg: '67275'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k56848064
+pgterms:marc905: 20210613045542bagneuxdev
+pgterms:marc906: '1908'
+pgterms:marc907: FR
+production_note: the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: France :H. Daragon,1908.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Le Baiser en Grèce
+url: http://www.gutenberg.org/ebooks/67275
